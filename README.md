@@ -67,6 +67,6 @@ A SwiftUI-based currency converter application with MVVM architecture, dependenc
 
 ## 📸 UI Preview
 
-![Currency Converter UI](Assets/Images/SS.png)
-![Currency Converter UI](Assets/Images/SSDark.png)
+![Currency Converter UI](currencyConverter/Assets.xcassets/SS.imageset/SS.png)
+![Currency Converter UI](currencyConverter/Assets.xcassets/SSDark.imageset/SSDark.png)
 
