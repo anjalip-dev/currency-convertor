@@ -43,7 +43,7 @@ A SwiftUI-based currency converter application with MVVM architecture, dependenc
 ##  Challenges Faced & Solutions
 
 
-###  Offline Mode Support
+###  Offline Mode Support - BONUS POINT
 - **Issue:** No internet connectivity affects usability
 - **Solution:** Used **Core Data** to cache exchange rates
 
